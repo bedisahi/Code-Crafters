@@ -6,7 +6,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- *  @author Nupur Dhiman,Sahil Bedi ,Labeeque Ahmad ,Kashvi Tewari
+ *  @author Nupur Dhiman,Sahil Bedi ,Labeeque Ahmad ,Kashvi Tewari 1
  */
 import java.util.ArrayList;
 import java.util.Scanner;
