@@ -5,8 +5,9 @@
 package ca.sheridancollege.project;
 
 /**
+ * Concrete implementation of the Card class. This class is a part of the Factory pattern to create card instances.
  *
- *  @author Nupur Dhiman,Sahil Bedi ,Labeeque Ahmad ,Kashvi Tewari 1
+ *  @author Nupur Dhiman,Sahil Bedi ,Labeeque Ahmad ,Kashvi Tewari
  */
 public class CardEx extends Card {
     private String suit;
